@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![My Skills](https://skillicons.dev/icons?i=java,spring,js,bootstrap,tailwindcss,eclipse,vscode&theme=light)](https://skillicons.dev)
 <!--
 **gyull0210/gyull0210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
